@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#942d1f</color>
+    
+    <!-- Professional Theme Colors -->
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#44474E</color>
+    <color name="text_tertiary">#74777F</color>
+    
+    <color name="app_background">#F8F9FA</color>
+    <color name="card_stroke">#E0E0E0</color>
+</resources>

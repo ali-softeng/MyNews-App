@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Colors -->
+    <color name="white">#FF000000</color> <!-- Inverted background -->
+    <color name="black">#FFFFFFFF</color> <!-- Inverted text -->
+    
+    <color name="text_primary">#E1E2E4</color>
+    <color name="text_secondary">#C1C2C5</color>
+    <color name="text_tertiary">#909194</color>
+    
+    <color name="app_background">#111315</color>
+    <color name="card_stroke">#2C2F33</color>
+</resources>

@@ -27,6 +27,9 @@ It uses the **GNews API** to fetch real-time news articles based on user-selecte
 
 ##  Screenshots
 
+| News Feed | Country Filter | No Internet State |
+| :---: | :---: | :---: |
+| <img src="screenshots/home.jpeg" width="250"> | <img src="screenshots/filter.jpeg" width="250"> | <img src="screenshots/network-error.jpeg" width="250"> |
 
 ##  Future Improvements
 - [ ] Dark Mode support
